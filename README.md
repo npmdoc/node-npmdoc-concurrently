@@ -1,11 +1,13 @@
-# api documentation for  [concurrently (v3.4.0)](https://github.com/kimmobrunfeldt/concurrently)  [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-concurrently.svg)](https://travis-ci.org/npmdoc/node-npmdoc-concurrently)
+# api documentation for  [concurrently (v3.4.0)](https://github.com/kimmobrunfeldt/concurrently)  [![npm package](https://img.shields.io/npm/v/npmdoc-concurrently.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-concurrently) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-concurrently.svg)](https://travis-ci.org/npmdoc/node-npmdoc-concurrently)
 #### Run commands concurrently
 
 [![NPM](https://nodei.co/npm/concurrently.png?downloads=true)](https://www.npmjs.com/package/concurrently)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-concurrently/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-concurrently_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-concurrently/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-concurrently/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-concurrently_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-concurrently/build..beta..travis-ci.org/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-concurrently/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-concurrently/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-concurrently/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
