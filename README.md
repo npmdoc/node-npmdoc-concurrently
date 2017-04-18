@@ -1,9 +1,14 @@
-# api documentation for  [concurrently (v3.4.0)](https://github.com/kimmobrunfeldt/concurrently)  [![npm package](https://img.shields.io/npm/v/npmdoc-concurrently.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-concurrently) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-concurrently.svg)](https://travis-ci.org/npmdoc/node-npmdoc-concurrently)
+# npmdoc-concurrently
+
+#### api documentation for  [concurrently (v3.4.0)](https://github.com/kimmobrunfeldt/concurrently)  [![npm package](https://img.shields.io/npm/v/npmdoc-concurrently.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-concurrently) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-concurrently.svg)](https://travis-ci.org/npmdoc/node-npmdoc-concurrently)
+
 #### Run commands concurrently
 
-[![NPM](https://nodei.co/npm/concurrently.png?downloads=true)](https://www.npmjs.com/package/concurrently)
+[![NPM](https://nodei.co/npm/concurrently.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/concurrently)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-concurrently/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-concurrently_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-concurrently/build..beta..travis-ci.org/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-concurrently/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-concurrently/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-concurrently/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-concurrently/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-concurrently/build/screenCapture.npmPackageListing.svg)
 
@@ -69,17 +74,14 @@
     "main": "src/main.js",
     "maintainers": [
         {
-            "name": "gustavohenke",
-            "email": "guhenke@gmail.com"
+            "name": "gustavohenke"
         },
         {
-            "name": "kimmobrunfeldt",
-            "email": "kimmo.brunfeldt@gmail.com"
+            "name": "kimmobrunfeldt"
         }
     ],
     "name": "concurrently",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/kimmobrunfeldt/concurrently.git"
@@ -90,16 +92,6 @@
     "version": "3.4.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module concurrently](#apidoc.module.concurrently)
-
-
-
-# <a name="apidoc.module.concurrently"></a>[module concurrently](#apidoc.module.concurrently)
 
 
 
