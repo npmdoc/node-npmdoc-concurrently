@@ -1,6 +1,6 @@
 # npmdoc-concurrently
 
-#### api documentation for  [concurrently (v3.4.0)](https://github.com/kimmobrunfeldt/concurrently)  [![npm package](https://img.shields.io/npm/v/npmdoc-concurrently.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-concurrently) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-concurrently.svg)](https://travis-ci.org/npmdoc/node-npmdoc-concurrently)
+#### basic api documentation for  [concurrently (v3.4.0)](https://github.com/kimmobrunfeldt/concurrently)  [![npm package](https://img.shields.io/npm/v/npmdoc-concurrently.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-concurrently) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-concurrently.svg)](https://travis-ci.org/npmdoc/node-npmdoc-concurrently)
 
 #### Run commands concurrently
 
